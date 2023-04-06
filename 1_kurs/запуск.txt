@@ -1,0 +1,19 @@
+
+
+gcc lol.c -o lolc
+
+
+
+
+
+
+Или
+
+
+
+gcc lol.c
+
+./a.out
+
+
+
